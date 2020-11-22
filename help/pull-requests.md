@@ -9,3 +9,7 @@
 4. Go to the 'pull requests' tab and click the new request button.
 
 5. Click the 'compare across forks' button.
+
+6. Click the 'head' dropdown and find the fork that starts with your username (e.g. C1200/RepBot).
+
+7. Click create new pull request.
