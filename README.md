@@ -6,7 +6,7 @@
 
 Lines of code (in the main file): `335`
 
-Total files (including package(-lock).json: `5`
+Total files (including package(-lock).json): `5`
 
 ## Issues and ideas
 
