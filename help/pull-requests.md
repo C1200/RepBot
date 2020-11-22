@@ -17,3 +17,5 @@
 8. Add a title and description.
 
 9. Click create new pull request.
+
+More info can be found [here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)!
