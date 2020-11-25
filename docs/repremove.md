@@ -1,6 +1,6 @@
-# <repadd
+# <repremove
 
-Adds 1 rep point to a user.
+Removes a set amount of rep from a user.
 
 ## Usage
 
@@ -9,12 +9,12 @@ Adds 1 rep point to a user.
 [`variable`] = Optional variable.
 
 ```
-<repadd (user)
+<repremove (user) (amount)
 ```
 
 Examples:
 
-- `<repadd @Discord#0000` - Adds 1 rep point to the user.
+- `<repremove @Discord#0000 2` - Removes 2 rep points from a user.
 
 ## Permissions
 
@@ -24,7 +24,7 @@ Who can use this command:
 
 - Co-Owner
 
-- Head Admin/Manager
+- Manager
 
 Who can't use this command:
 
