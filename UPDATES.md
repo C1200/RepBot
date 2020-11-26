@@ -19,8 +19,12 @@
 
 ## Open
 
-Soon to be listed.
+|ID     |Name    |Description                         |Status|
+|-------|--------|------------------------------------|------|
+|`#0000`|Infinity|Every staff member gets infinite rep|Fixing|
 
 ## Closed
 
-Soon to be listed.
+|ID     |Name    |Description                         |Status|
+|-------|--------|------------------------------------|------|
+|N/A    |None    |None yet.                           |N/A   |
