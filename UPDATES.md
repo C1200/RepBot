@@ -21,10 +21,10 @@
 
 |ID     |Name    |Description                         |Status|
 |-------|--------|------------------------------------|------|
-|`#0000`|Infinity|Every staff member gets infinite rep|Fixing|
+|N/A    |None    |None yet.                           |N/A   |
 
 ## Closed
 
 |ID     |Name    |Description                         |Status|
 |-------|--------|------------------------------------|------|
-|N/A    |None    |None yet.                           |N/A   |
+|`#0000`|Infinity|Every staff member gets infinite rep|Fixed |
