@@ -1,0 +1,13 @@
+# Current Version: 1.1.1 + bug fix
+
+Added:
+
+- Infinity rep for higher-ups (added in 1.1.1)
+
+Bug fix:
+
+- Fixed bug `#0000` (see [UPDATES.md](https://github.com/C1200/RepBot-Docs/blob/main/UPDATES.md))
+
+---
+
+*Date: 26/11/20 - Author: C1200*
