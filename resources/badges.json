@@ -1,0 +1,39 @@
+{
+    "badges": {
+        "serverowner": {
+            "name": "Server Owner",
+            "url": "https://c1200.js.org/projects/RepBot/badges/#serverowner",
+            "icon": "<:repbotserverowner:777141136439246851>"
+        },
+        "contributor": {
+            "name": "Contributor",
+            "url": "https://c1200.js.org/projects/RepBot/badges/#contributor",
+            "icon": "<:repbotcontributor:777140635383496714>"
+        },
+        "tester": {
+            "name": "Tester",
+            "url": "https://c1200.js.org/projects/RepBot/badges/#tester",
+            "icon": "<:repbottester:777146479964979210>"
+        },
+        "bughunter": {
+            "name": "Bug Hunter",
+            "url": "https://c1200.js.org/projects/RepBot/badges/#bughunter",
+            "icon": "<:repbotbughunter:777262574366228481>"
+        }
+    },
+  
+    "profiles": {
+        "286471789268303872": {
+            "name": "Rodway",
+            "badgearray": [ "serverowner", "tester" ]
+        },
+        "399968653677690880": {
+            "name": "C1",
+            "badgearray": [ "contributor", "tester" ]
+        },
+        "379732416589201410": {
+            "name": "Alistair",
+            "badgearray": [ "bughunter" ]
+        }
+    }
+}
