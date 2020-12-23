@@ -2,10 +2,11 @@
 
 ## Open
 
-|ID     |Name    |Description  |Status                                     |
-|-------|--------|-------------|-------------------------------------------|
-|`#0003`|Rate    |Private      |Not started (Estimated version: 1.1.3)     |
-|`#0004`|Leader  |Leaderboard  |Cleaning results (Estimated version: 1.1.2)|
+|ID     |Name    |Description   |Status                                     |
+|-------|--------|--------------|-------------------------------------------|
+|`#0003`|Rate    |Private       |Not started (Estimated version: 1.1.3)     |
+|`#0004`|Leader  |Leaderboard   |Cleaning results (Estimated version: 1.1.2)|
+|`#0005`|Slash   |Slash Commands|Not started (Estimated version: 1.1.2)     |
 
 ## Closed
 
