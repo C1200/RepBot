@@ -1,4 +1,4 @@
-# Current Version: 1.1.1 + BF2
+# Current Version: 1.1.1 + BF3
 
 Added:
 
@@ -8,8 +8,10 @@ Bug fix:
 
 - Fixed bug `#0000` (see [UPDATES.md](https://github.com/C1200/RepBot-Docs/blob/main/UPDATES.md)) (added in 1.1.1 + BF1)
 
-- Fixed bug where you could remove negative values with `<repremove` which would add rep instead of remove rep.
+- Fixed bug where you could remove negative values with `<repremove` which would add rep instead of remove rep. (added in 1.1.1 + BF2)
+
+- Fixed database querying bug
 
 ---
 
-*Date: 27/11/20 - Author: C1200*
+*Date: 8/5/21 - Author: C1200*
