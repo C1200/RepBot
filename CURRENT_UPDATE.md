@@ -1,16 +1,7 @@
-# Current Version: 1.1.1 + BF3
+# Version 1.2.0
 
-Added:
-
-- Infinity rep for higher-ups (added in 1.1.1)
-
-Bug fix:
-
-- Fixed bug `#0000` (see [UPDATES.md](https://github.com/C1200/RepBot-Docs/blob/main/UPDATES.md)) (added in 1.1.1 + BF1)
-
-- Fixed bug where you could remove negative values with `<repremove` which would add rep instead of remove rep. (added in 1.1.1 + BF2)
-
-- Fixed database querying bug
+- Added command handler
+- Change database software
 
 ---
 
