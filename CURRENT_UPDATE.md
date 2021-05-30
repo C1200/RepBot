@@ -2,7 +2,3 @@
 
 - Added command handler
 - Change database software
-
----
-
-*Date: 8/5/21 - Author: C1200*
