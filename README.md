@@ -4,13 +4,13 @@
 
 *Last updated: 28/11/2020 (DD/MM/YYYY)*
 
-Lines of code (in the main file): `344`
+Lines of code (in the main file): `217`
 
-Total files (including package(-lock).json): `5`
+Total files (including package(-lock).json): `42`
+
+Total files (of which are .js files): `23`
 
 ## Issues and ideas
-
-> **Note: Please do not tell us about outages. We know about this issue and it can not be fixed at this time.**
 
 If you have an issue or idea for RepBot please tell us on the repo's [issues page](https://github.com/c1200/RepBot/issues).
 
